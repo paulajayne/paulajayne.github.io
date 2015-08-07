@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Manor Farm</title>
+    <link rel="stylesheet" type="text/css" href="/css/reset-fonts.css">
+    <link rel="stylesheet" type="text/css" href="/css/basic.css">
+    <link rel="stylesheet" type="text/css" href="/css/small_logo.css">
+	<!-- compliance patch for microsoft browsers -->
+  <!--[if lt IE 7]><script src="/ie7/ie7-standard-p.js" type="text/javascript"></script><![endif]-->
+</head>
+<body>
+  <div id="page">
+    <div id="logo">
+  <h1 id="paulajayne"><span>Paula Jayne</span></h1>
+  <p>
+    natural lifestyle<br>
+    photography
+  </p>
+</div>
+    <div id="nav" class="nav">
+<!--<p>
+tel: 07866 432580
+email: <a href="mailto:paula&#064;paulajayne&#046;com">paula&#064;paulajayne&#046;com</a>
+</p>-->
+<ul>
+ <li class="first"><a href="/">home</a></li>
+ <li><a href="/about">my approach</a></li>
+ <li><a href="/portraits">portraits</a></li>
+ <li><a href="/nurseries">nurseries / schools</a></li>
+ <li><a href="/gallery/1">galleries</a></li>
+ <li><a href="/shoots/manor-farm">shoots</a></li>
+</ul>
+</div>
+    <div id="content">
+    <p>Paula Jayne Photography often uses the lovely location of Manor Farm.</p>
+
+
+	<p>If you would like to book a session please email <strong><a href="mailto:paula@paulajayne.com">paula@paulajayne.com</a></strong> or call <strong>07866 432580</strong>.</p>
+
+
+<table style="width:100%">
+    <tr>
+        <td width="49%" style="text-align:left">
+          <img alt="" src="/shoots/manor-farm/2009-april/attachment/paula-sig-black-300/IMG_3024web.jpg" />
+        </td>
+        <td width="49%" style="text-align:right">
+          <img alt="" src="/shoots/manor-farm/2009-april/attachment/paula-sig-black-300/IMG_7950web.jpg" />
+        </td>
+    </tr>
+</table>
+
+	<p>I love the colours and texture of winter&#8212;the light is often softer than summer shoots, the colours richer and children look fresh with rosy coloured cheeks and textured clothing. With the use of hats, scarves and wellies you can create natural cosy images. Manor Farm garden is the perfect location with so much interest, trees, and my favourite rustic doorways. Inside there is a lovely room with a fireplace and window seats for a more posed image.</p>
+
+
+<table style="width:100%">
+    <tr>
+        <td width="33%" style="text-align:left">
+          <img alt="" src="/shoots/manor-farm/2009-april/attachment/paula-sig-black-300/IMG_3007web.jpg" />
+        </td>
+        <td width="33%" style="text-align:center">
+          <img alt="" src="/shoots/manor-farm/2009-april/attachment/paula-sig-black-300/IMG_8081bwweb.jpg" />
+        </td>
+        <td width="33%" style="text-align:right">
+          <img alt="" src="/shoots/manor-farm/2009-april/attachment/paula-sig-black-300/IMG_3176web.jpg" />
+        </td>
+    </tr>
+</table>
+
+	<p>The full address for the shoot is <em>Manor Farm, Bicester Road, Launton, <span class="caps">OX26 5DP</span></em>.
+Manor Farm shares the same entrance as the <a href="http://www.thetythebarn.co.uk/contact-us.php">Tythe Barn</a>.
+To enter Manor Farm continue past the turning for the barn car park, and the drive leads into Manor Farm.</p>
+    </div>
+    <div id="footer">
+  <p>
+    tel: 07866 432580<br>
+    <a href="mailto:paula&#064;paulajayne&#046;com">paula&#064;paulajayne&#046;com</a>
+  </p>
+</div>
+  </div>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-118764-5");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

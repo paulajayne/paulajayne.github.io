@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Nurseries / Schools</title>
+    <link rel="stylesheet" type="text/css" href="/css/reset-fonts.css">
+    <link rel="stylesheet" type="text/css" href="/css/basic.css">
+    <link rel="stylesheet" type="text/css" href="/css/small_logo.css">
+	<!-- compliance patch for microsoft browsers -->
+  <!--[if lt IE 7]><script src="/ie7/ie7-standard-p.js" type="text/javascript"></script><![endif]-->
+</head>
+<body>
+  <div id="page">
+    <div id="logo">
+  <h1 id="paulajayne"><span>Paula Jayne</span></h1>
+  <p>
+    natural lifestyle<br>
+    photography
+  </p>
+</div>
+    <div id="nav" class="nav">
+<!--<p>
+tel: 07866 432580
+email: <a href="mailto:paula&#064;paulajayne&#046;com">paula&#064;paulajayne&#046;com</a>
+</p>-->
+<ul>
+ <li class="first"><a href="/">home</a></li>
+ <li><a href="/about">my approach</a></li>
+ <li><a href="/portraits">portraits</a></li>
+ <li><a href="/nurseries">nurseries / schools</a></li>
+ <li><a href="/gallery/1">galleries</a></li>
+ <li><a href="/shoots/manor-farm">shoots</a></li>
+</ul>
+</div>
+    <div id="content">
+    <table width="100%">
+  <tr>
+    <td width="33%" align="left">
+      <img alt="" src="/nurseries/attachment/paula-sig-black-200/IMG_1382cropa.jpg" />
+    </td>
+    <td width="33%" align="center">
+      <img alt="" src="/nurseries/attachment/paula-sig-black-200/IMG_1002crop.jpg" />
+    </td>
+    <td width="33%" align="right">
+      <img alt="" src="/nurseries/attachment/paula-sig-black-200/IMG_0804cropa.jpg" />
+    </td>
+  </tr>
+</table>
+
+	<p>I just love photographing children outdoors. The children are completely relaxed and there are so many interesting, fun ways I can capture a child’s personality. The natural environment allows me to use all the wonderful textures and colours of the varying seasons giving the perfect combination.</p>
+
+
+	<p>One benefit of using the outdoors is there is no need to put a room aside or a hall to set up a studio but should you prefer a studio setting I am very happy to arrange this and the children will still have lots of fun!</p>
+
+
+	<p>Weather&#8230; I find I can adapt to work around it, I usually find a tree or doorway we can shelter under.</p>
+
+
+	<p><strong>Benefits for your nursery, school or group</strong></p>
+
+
+	<p>No location fee!
+Commission on all orders!
+Numerous images to choose from!
+I also undertake photographic work for school prospectus, promotional and marketing material.</p>
+
+
+	<p>If you are a Nursery, Toddler Group, School or parent and would like to discuss your requirements or for further information please email <strong><a href="mailto:paula@paulajayne.com">paula@paulajayne.com</a></strong> or call <strong>07866 432580</strong>.</p>
+    </div>
+    <div id="footer">
+  <p>
+    tel: 07866 432580<br>
+    <a href="mailto:paula&#064;paulajayne&#046;com">paula&#064;paulajayne&#046;com</a>
+  </p>
+</div>
+  </div>
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-118764-5");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

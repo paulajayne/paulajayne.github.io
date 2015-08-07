@@ -1,0 +1,72 @@
+/**************************************************************
+
+	SlideShow
+	v 1.3
+
+**************************************************************/
+
+.slideshowContainer {
+	width: 500px;
+	height: 331px;
+	float:right;
+	margin-top: 14px; /* line up with top of thumbnails */
+}
+.portrait .slideshowContainer {
+	width: 331px;
+	height: 500px;
+}
+.square .slideshowContainer {
+	width: 500px;
+	height: 500px;
+}
+
+.loading {
+	background: url(/images/loading.gif) center no-repeat;
+}
+
+.slideshowThumbnail {
+	outline: none;
+}
+
+.slideshowContainer img {
+  display: block;
+  margin: 0 auto;
+}
+
+.slideshow a {
+  border: none;
+}
+
+.slideshow a:hover {
+  border: none;
+}
+
+/* space out thumbnails vertically on portrait or square pages */
+.slideshow.portrait .slideshowThumbnail img, .slideshow.square .slideshowThumbnail img {
+  margin-bottom: 17px;
+}
+
+/*.slideshowThumbnail img {
+	border: 1px solid white;
+	padding: 4px;
+}*/
+
+/*a:hover.slideshowThumbnail img {
+	border: 1px solid #ccc;
+	padding: 4px;
+}*/
+
+/*.current img {
+	border: 1px solid red;
+	padding: 5px;
+}*/
+
+.outline {
+	border: 1px solid #ccc;
+	z-index: 0;
+	position: absolute;
+}
+
+/*************************************************************/
+
+

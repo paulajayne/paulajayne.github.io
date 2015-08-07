@@ -1,0 +1,82 @@
+/* Paula Jayne Photography */
+
+html, body {
+  background: #636363;
+  color: #fcfcfc;
+}
+
+a {
+  color: #fcfcfc;
+  border-bottom: 1px dotted #fcfcfc;
+}
+
+a:hover {
+  border-bottom: 1px solid #fcfcfc;
+}
+
+#page {
+  margin: 0 auto;
+  background: #050505 url(/images/pjp1_1024.jpg) top left no-repeat;
+  width: 1024px;
+  height: 673px;
+}
+
+#logo {
+  padding: 20px;
+  height: 170px;
+}
+
+#paulajayne {
+  visibility: hidden;
+  margin: 0 0 0 auto;
+  background:transparent url(../images/paulajayne_w_350-trans.png) no-repeat scroll left top;
+  height:152px;
+  width:350px;
+}
+
+#logo h2, #logo p {
+  top: -35px;
+  left: 560px;
+}
+
+#content {
+  /*border: 1px dashed yellow;*/
+  float: right;
+  margin: 0 2em;
+  font-size: 100%;
+  width: 320px;
+  color: #fcfcfc;
+}
+#content p {
+  margin: 5px;
+  padding: 0;
+}
+#footer p {
+  margin: 1em;
+}
+
+#footer {
+	text-align: center;
+	font: 80%;
+}
+
+div.img {
+  text-align: center;
+}
+
+.nav {
+  line-height: 1.5em;
+  padding: 5px;
+  margin: 2em 0;
+}
+
+#content .nav p {
+  margin: 0;
+  text-align: right;  
+}
+
+.nav li, .nav li.first {
+  display: block;
+  padding-left: 0;
+}
+

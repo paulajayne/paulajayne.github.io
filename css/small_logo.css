@@ -1,0 +1,27 @@
+#paulajayne {
+  margin:0 auto;
+  width:300px; height:129px;
+  background: url(../images/paulajayne_300-trans.png) top left no-repeat;
+}
+
+#paulajayne span {
+  display: none;
+}
+
+#logo {
+  margin: 1em 1em 4em 1em;
+  height: 140px;
+}
+#logo h2, #logo p {
+  font-style: italic;
+  font-family: Verdana;
+  text-align: center;
+  margin-bottom: 5px;
+  width: 150px;
+  position: relative;
+  top: -35px;
+  left: 190px;
+}
+#logo p {
+  font-size: 75%;
+}
